@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these datasets in an article, report, or analysis, please cite StateStub as below."
+title: "StateStub Open Data 2026: US State Income Tax Withholding Rules and $75,000 Take-Home Pay Ranking Across 26 States"
+type: dataset
+version: "2026.11"
+date-released: "2026-11-25"
+license: CC-BY-4.0
+url: "https://statestub.com/reports/"
+authors:
+  - name: "StateStub"
+    website: "https://statestub.com/"
+    email: "contact@statestub.com"
+keywords:
+  - us-paycheck
+  - state-income-tax
+  - payroll-withholding
+  - take-home-pay
+  - irs-pub-15t
+  - fica
+  - open-data
+abstract: "Two open CSV datasets detailing 2026 state income tax withholding rules, mandatory employee payroll contributions (SDI, PFML, SUI), and a standardized $75,000 single-filer take-home pay ranking across 26 US states."
